@@ -10,7 +10,7 @@ An introductory iOS app built with Swift and UIKit that allows a user to enter p
 
 ## App Walk-through
 
-![App Walk-through](URL_TO_YOUR_GIF_HERE)
+![App Walk-through](https://www.loom.com/share/b58f679784264be6abe6e0ab0278bef4?sid=4ba9688b-027b-4290-8970-0daa8f803ab5)
 
 ---
 
